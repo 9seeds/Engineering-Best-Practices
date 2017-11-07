@@ -1,6 +1,6 @@
 <h2 id="philosophy">Philosophy</h2>
 
-At 10up, we value content and the experience one will have reading it. We write CSS with this in mind and don't sacrifice our clients' most important assets over the latest, shiniest, half-supported CSS features just for the sake of using them. CSS should help enhance content, not bury it under "cool" distractions.
+At 9seeds, we value content and the experience one will have reading it. We write CSS with this in mind and don't sacrifice our clients' most important assets over the latest, shiniest, half-supported CSS features just for the sake of using them. CSS should help enhance content, not bury it under "cool" distractions.
 
 Our websites are built mobile first, using performant CSS. Well-structured CSS yields maintainability and better collaboration which ultimately yields better client experiences.
 
@@ -429,7 +429,7 @@ Sometimes a more complex grid sytem is warranted and leveraging a 3rd party libr
 
 ### Resets
 
-As of [August 13th, 2015](https://10up.com/blog/2015/sponsoring-sanitize-css/) 10up has taken stewardship of [sanitize.css](https://github.com/10up/sanitize.css), making it our primary tool for resets. Although we can still consider using [normalize.css](https://necolas.github.io/normalize.css/).
+As of [August 13th, 2015](https://9seeds.com/blog/2015/sponsoring-sanitize-css/) 9seeds has taken stewardship of [sanitize.css](https://github.com/9seeds/sanitize.css), making it our primary tool for resets. Although we can still consider using [normalize.css](https://necolas.github.io/normalize.css/).
 
 ## Further reading {% include Util/top %}
 
